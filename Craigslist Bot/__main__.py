@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-# Developed by Michael Orozco
-# iBit IT
-# Start dev: 10/16/2015 11:38pm
-# End dev: 10/17/2015 1:45am
+# Cameron Anglin
+# Project re-spun on: 04/09/2017
 
 import sys, argparse, string, ctypes, os, re
 import urllib, urllib2, cookielib, httplib
