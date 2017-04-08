@@ -1,2 +1,1 @@
-Put the body of your post in here.
-It's easier to do this than to pass it in through an argument.
+Put post content here.
