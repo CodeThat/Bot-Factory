@@ -1,4 +1,4 @@
-# Photobucket
+# Photobucket Recents
 A simple Photobucket image pulling script
 
 
